@@ -1,2 +1,2 @@
-# Job-Posting-System
-JobPost System — A MongoDB-based Management System designed to manage user information 
+# NextGenHR
+NextGenHR — A MongoDB-based Human Resource Management System designed to manage employees, attendance, departments, leaves, and payroll with schema validation support.
